@@ -7,6 +7,7 @@ Test data3
 Sample data from release1 sub-branch
 Sample data1
 Sample data2
+Sample data from release1 (release branch)
 Sample data3
 Sample data4
 git config --global user.name "Prasad Polarapu"
