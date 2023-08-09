@@ -3,6 +3,11 @@ Smaple data from main branch
 Test data1
 Test data2
 Test data3
+Sample data from release1 sub-branch
+Sample data1
+Sample data2
+Sample data3
+Sample data4
 git config --global user.name "Prasad Polarapu"
 git config --global user.email "devopstraining2015@gmail.com"
 
