@@ -1,71 +1,71 @@
-git init  (To intilize Empty Git repo)
-Smaple data from main branch
-Test data1
-Sample test data from prasad
-Test data0
-Test data2
-Smaple data by prasad
-Test data addedd
-Test data3
-Sample data from release1 sub-branch
-Sample data1
-Sample test data from prasad
-Sample data0
-Sample data2
-Sample data from release1 (release branch)
-Sample data3
-Sample data4
-git config --global user.name "Prasad Polarapu"
+git inigidgigit  (To intilize Empty Git repo)
+Smaple data fgdfrom main branch
+Test data1g
+Sample testdfg data from prasad
+Test data0dfg
+Test data2fd
+Smaple data gfdby prasad
+Test data addedgd
+Test data3fdgfdgfdgdfb
+Sample data from releafdse1 sub-branch
+Sample data1b
+Sample test dgbata from prasad
+Sample data0gf
+Sample data2bgf
+Sample data frobgfm release1 (release branch)
+Sample data3b
+Sample data4gb
+git config --ggfbgfbgfsbgfslobal user.name "Prasad Polarapu"
 git config --global user.email "devopstraining2015@gmail.com"
-
-git config --list
-
-git config --global --unset user.name
-git config --global --unset user.email
-
-==================
-touch file1
-ls
-git status
-git add file1
-git status
+bgs
+gitbgs config --list
+b
+ggsbit config --global --unset user.name
+git gsconfig --global --unset user.email
+b
+=gfb=================
+toucfgbh file1
+lsgf
+git bstatus
+git agfbsdd file1
+git statugfbss
 git commit -m "sample-commit" file1
-git status
-git log
-git show
-git show cid
-
-
--------------------
+git statusgbfda
+git loge
+git showg
+git show fgcid
+trh
+dfv
+---gb----------------
 git clone https://github.com/polarapu/batch96.git
-ls
-cd batch96
-touch file1
-ls
+lsgfsb
+cd batgfch96
+touch fibgfle1
+lsbg
+git fbstatus
+git adgbd file1
+git statgfus
+git commitbf -m "sample-commit" file1
+git statusg
+git logad
+git showgf
+git show cfid
+git pushgber
+fds
+===fvd============
+b
+tgfbouch file2 file3 file4
+lsgb
 git status
-git add file1
-git status
-git commit -m "sample-commit" file1
-git status
-git log
-git show
-git show cid
-git push
-
-===============
-
-touch file2 file3 file4
-ls
-git status
-git add file2 file3 file4
-or
-git add .
-or
-git add *
-or
-git add -A
-git status
-git commit -m "Smaple commit"
-git status
-git log
-git show
+git bfadd file2 file3 file4
+ordb
+git gfbadd .
+orgb
+git fadd *
+orvfd
+git avfdd -A
+git stabgtus
+git commibnt -m "Smaple commit"
+git statusgnb
+git logfgb
+git showfbgfbfb
